@@ -1,0 +1,14 @@
+{
+  "name": "Container",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "workbench.colorTheme": "Default Dark Modern" // Dark Modern
+      },
+      "extensions": [
+        "ms-azuretools.vscode-docker", // Docker
+        "eamodio.gitlens" // GitLens
+      ]
+    }
+  }
+}

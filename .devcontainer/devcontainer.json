@@ -7,7 +7,9 @@
       },
       "extensions": [
         "ms-azuretools.vscode-docker", // Docker
-        "eamodio.gitlens" // GitLens
+        "eamodio.gitlens", // GitLens
+        "ms-python.python", // Python
+        "ms-toolsai.jupyter" // Jupyter pack
       ]
     }
   }
